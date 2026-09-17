@@ -4,7 +4,7 @@
 
 ## 遊ぶ
 
-GitHub Pages で公開されると、次のURLからそのまま遊べます。
+GitHub Pages でURLからそのまま遊べます。
 
 **https://hiromu2001.github.io/dont-press-me/**
 
